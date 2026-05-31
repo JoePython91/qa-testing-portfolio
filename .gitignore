@@ -1,0 +1,26 @@
+# Operating Systems
+.DS_Store
+Thumbs.db
+.gitattributes
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+desktop.ini
+
+# Sensitive Information
+credentials.txt
+passwords.txt
+secrets.json
+.env
+
+# Test Results
+test-results/
+*.log
+
+# Dependencies
+node_modules/
